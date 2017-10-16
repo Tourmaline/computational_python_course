@@ -9,11 +9,9 @@ def msquare(X) :
     Xsq = X**2;
     return Xsq;
 
-@profile
 def mtrace(X):
     return np.trace(X);
 
-@profile
 def mnorm(A,B):
     C = A-B;
     return la.norm(C);
