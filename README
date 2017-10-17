@@ -1,2 +1,10 @@
 Python line-by-line memory profiler:
 python -m memory_profiler test_mem.py
+
+
+Python debugger: pdb   (similar to gdb)
+
+
+Coverage report:
+pytest test_mymath.py --cov=mymath --cov-report=term-missing
+pytest test_mymath.py --cov=mymath --cov-report=html
