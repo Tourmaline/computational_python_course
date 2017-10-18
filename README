@@ -15,3 +15,7 @@ Sphinx
 
 sphinx-quickstart
 sphinx-apidoc [options] -o <outputdir> <sourcedir> [pathnames ...]
+
+
+Symmetrix matrix: 
+https://blog.sopticek.net/2016/07/24/implementing-symmetric-matrix-in-python/

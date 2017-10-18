@@ -1,11 +1,7 @@
 import numpy as np;
 from numpy import linalg as la;
 
-# find the parent directory 
-import os, sys
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
-import densematrix as dm
+import densematrix 
 from densematrix import matfunctions as mf
 
 

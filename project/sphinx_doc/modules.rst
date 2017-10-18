@@ -5,4 +5,4 @@ densmatlib
    :maxdepth: 4
 
    densematrix
-   recexp
+   recexpfns

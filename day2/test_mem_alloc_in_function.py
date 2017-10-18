@@ -1,6 +1,6 @@
 def f(l):
     print(id(l))
-    l += [1,2,3] 
+    l = [1,2,3] # to modify l which is outside of the function we can use l[:] = [1,2,3], but it is not recommended due to potential problems because of  function's side effects 
     print(id(l))
     print("inside function ", l)
     val = 4

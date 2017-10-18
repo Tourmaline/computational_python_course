@@ -12,7 +12,7 @@ Welcome to densmatlib documentation!
 
    modules
    densematrix
-   recexp
+   recexpfns
 
 
 Indices and tables
