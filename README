@@ -8,3 +8,10 @@ Python debugger: pdb   (similar to gdb)
 Coverage report:
 pytest test_mymath.py --cov=mymath --cov-report=term-missing
 pytest test_mymath.py --cov=mymath --cov-report=html
+
+
+
+Sphinx
+
+sphinx-quickstart
+sphinx-apidoc [options] -o <outputdir> <sourcedir> [pathnames ...]
