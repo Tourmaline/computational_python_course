@@ -1,3 +1,1 @@
-<a href='http://densmatlib.readthedocs.io/en/latest/?badge=latest'>
-    <img src='http://readthedocs.org/projects/densmatlib/badge/?version=latest' alt='Documentation Status' />
-</a>
+[![Documentation Status](http://readthedocs.org/projects/densmatlib/badge/?version=latest)](http://densmatlib.readthedocs.io/en/latest/?badge=latest)
